@@ -13,5 +13,5 @@ Utilizing the robust VHDL language and leveraging the power of Field Programmabl
 This system is particularly useful in applications where real-time data processing is crucial, such as in sensor data analysis or financial market monitoring. The use of FPGAs allows for high-speed data processing and the flexibility to reconfigure the circuitry as needed for different applications or updates to the algorithm.
 
 
-# This figure shows the design of the circuit
+# This figure shows the design of the circuit 
 ![Parallel in Serial-out Shift Register diagram](https://github.com/NajimAlfutini/Parallel-in-Serial-Out-Shift-Register/assets/138370248/cc6a478a-c061-47f8-9a90-e9fd3ff7e546)
